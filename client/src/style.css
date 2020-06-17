@@ -1,0 +1,8 @@
+body{
+  margin : 0 auto;
+}
+.container-card{
+
+  display: flex;
+  flex-direction:column;
+}
